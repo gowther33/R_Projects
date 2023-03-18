@@ -12,7 +12,7 @@ library(dplyr)
 library(plotly)
 library(tidyr)
 
-video_stats <- read.delim("videos-stats.csv", sep=",", strip.white=T)
+video_stats <- read.delim("D:\\R_Projects\\YouTube_Trend_Analysis\\Data\\videos-stats.csv", sep=",", strip.white=T)
 video_stats <- video_stats %>%
   drop_na()
 video_stats <- video_stats %>%

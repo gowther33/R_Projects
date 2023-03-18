@@ -18,6 +18,6 @@ Data includes:
  * Keywords (Content Category)
 
 ## Dashboard Highlights
-![Histogram](/Dashboard/Hist.png)
+![Histogram](/Dashboard/Hist.PNG)
 
-![Scatter Plot](/Dashboard/Scatter.png)
+![Scatter Plot](/Dashboard/Scatter.PNG)

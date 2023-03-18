@@ -37,7 +37,7 @@ video_stats %>%
   labs(title = "Number of videos by year", x = "Publication Year", y = "Count")
 ```
 
-Column {data-width=400}
+Row {data-width=380}
 -----------------------------------------------------------------------
 
 ### Chart_Line of Comments by Category overtime

@@ -17,5 +17,7 @@ Data includes:
 
  * Keywords (Content Category)
 
-## Dashboard
-![Dashboard](https://github.com/gowther33/R_Projects/tree/master/YouTube_Trend_Analysis/Dashboard/image.png)
+## Dashboard Highlights
+![Histogram](/Dashboard/Hist.png)
+
+![Scatter Plot](/Dashboard/Scatter.png)
